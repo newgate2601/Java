@@ -1,0 +1,20 @@
+ABSTRACT vs INTERFACE
+
+************************* Interface:
++ interface: chỉ có phương thức trừu tượng. Class triển khai phương thức của interface: kế thừa phương thức trừu tượng của interface
++ interface: không là một lớp, viết giống như viết 1 lớp: chỉ chứa phương thức
++ method interface: định nghĩa trong class, modi là abstract và public
++ chứa các method mà 1 class triển khai
+
+- GIỐNG class
++ được viết trong 1 file định dạng .java với tên giống file
+
+- KHÁC class
++ không chứa Constructer
++ abstract method
++ không extends được mà chỉ triển khai được từ 1 class
++ interface kế thừa được từ interface khác
+
+
+
+
